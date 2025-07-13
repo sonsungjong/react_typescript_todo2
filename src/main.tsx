@@ -9,7 +9,7 @@ import TSExample from './components/TSExample.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <>
-    <TSExample />
+    {/* <TSExample /> */}
     <StrictMode>
       <App />
     </StrictMode>,
